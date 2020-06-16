@@ -1,7 +1,7 @@
 Git Training
 ============
 
-Does this look familiar?
+Does this look familiar? NO
 
 ![xkcd](http://imgs.xkcd.com/comics/git.png)
 
